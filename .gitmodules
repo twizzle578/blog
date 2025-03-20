@@ -1,0 +1,7 @@
+[submodule "majesticballs27blog/themes/PaperMod"]
+	path = majesticballs27blog/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "majesticballs27blog/public/majesticballs27.github.io"]
+	path = majesticballs27blog/public/majesticballs27.github.io
+	url = https://github.com/twizzle578/majesticballs27.github.io.git
+	branch = main
