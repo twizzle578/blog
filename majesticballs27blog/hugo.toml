@@ -1,0 +1,4 @@
+baseURL = 'https://majesticballs27.github.io/'
+languageCode = 'en-us'
+title = 'Fish in the Sea'
+theme = "PaperMod"

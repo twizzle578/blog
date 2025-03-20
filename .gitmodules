@@ -5,3 +5,7 @@
 	path = majesticballs27blog/public/majesticballs27.github.io
 	url = https://github.com/twizzle578/majesticballs27.github.io.git
 	branch = main
+[submodule "majesticballs27blog/visible"]
+	path = majesticballs27blog/visible
+	url = https://github.com/twizzle578/majesticballs27.github.io.git
+	branch = main
